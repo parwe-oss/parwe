@@ -4,7 +4,7 @@ Self-hosted communication hub built on [Matrix](https://matrix.org).
 Familiar Slack-style UX, bridges to Slack and Microsoft Teams, one
 inbox for everything.
 
-**Status: early development.** Architecture and planning are underway;
-first code lands here soon.
+**Status: coming soon.** In early development — architecture is locked and
+the core stack runs in a private pilot. First code lands here.
 
-See the organization profile for more: https://github.com/parwe-oss
+Project site: **[parwe.dev](https://parwe.dev)**
